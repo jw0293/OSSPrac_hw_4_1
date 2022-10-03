@@ -19,14 +19,14 @@ int main(){
     cout << "학과를 입력하세요 : ";
     cin >> major;
 
-    cout << "학년을 입력하세요 : ";
-    cin >> grade;
+    cout << "학교를 입력하세요 : ";
+    cin >> school;
     
     cout << endl << endl << "< 출력 >  " << endl;
     cout << "이름 : " << name << endl;
     cout << "힉번 : " << id << endl;
     cout << "학과 : " << major << endl;
-    cout << "학년 : " << grade << endl;
+    cout << "학교 : " << school << endl;
     
     return 0;
 }
